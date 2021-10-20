@@ -1,0 +1,1 @@
+document.getElementsByClassName("black").style.backgroundColor = "#3e4fe3"
